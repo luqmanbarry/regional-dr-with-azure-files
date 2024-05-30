@@ -1,1 +1,3 @@
-# regional-dr-with-azure-files
+# Disaster recovery with Red Hat OpenShift and Azure Files - An unpopular yet effective approach
+
+COMING SOON...
